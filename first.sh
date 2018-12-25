@@ -18,4 +18,4 @@ bash install_pyenv.sh
 
 git config --global user.email "seungyeon@joshua.kim"
 git config --global user.name "Seungyeon Joshua Kim"
-git config core.editor vim
+git config --global core.editor vim
